@@ -1,0 +1,18 @@
+{
+  "title": "极智MCP 服务配置",
+  "title_en": "JiZhiMCP Service Configuration",
+  "description": "连接您的极智MCP账号以调用已托管服务。凭证仅存储在本机 ~/.workbuddy 目录下。",
+  "description_en": "Connect your JiZhiMCP account to call hosted services. Credentials are stored locally only.",
+  "docUrl": "https://xn--5kvtwv52d.com/console",
+  "docLabel": "如何获取 API-Key？",
+  "fields": [
+    {
+      "key": "JIZHINENG_API_KEY",
+      "label": "API-Key",
+      "type": "password",
+      "required": true,
+      "placeholder": "在极智MCP控制台 → API-Key 中创建",
+      "description": "用于访问极智MCP网关的个人访问令牌，格式 jzk_ 开头。"
+    }
+  ]
+}
