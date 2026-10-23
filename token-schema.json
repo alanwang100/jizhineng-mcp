@@ -12,7 +12,7 @@
       "type": "password",
       "required": true,
       "placeholder": "在极智MCP控制台 → API-Key 中创建",
-      "description": "用于访问极智MCP网关的个人访问令牌，格式 jzk_ 开头。"
+      "description": "用于访问极智MCP网关的个人访问令牌，格式 sk- 开头。"
     }
   ]
 }
