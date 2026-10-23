@@ -1,4 +1,10 @@
 # JiZhiMCP (极智MCP)
+<p align="center">
+  <a href="https://github.com/alanwang100/jizhineng-mcp/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/alanwang100/jizhineng-mcp?style=social" /></a>
+  <a href="https://github.com/alanwang100/jizhineng-mcp/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-gateway-7b5cff" />
+</p>
+
 
 > Cross-platform MCP adaptation gateway: host any HTTP API as a standard MCP service and auto-distribute it to mainstream Agent platforms (Doubao, Tongyi, Wenxin, Claude, etc.) with unified auth and usage dashboard.
 >
@@ -17,7 +23,7 @@ JiZhiMCP is a hosted MCP gateway that turns plain HTTP APIs into standard Model 
 ### 1. Get an API Key
 
 1. Visit <https://xn--5kvtwv52d.com/console> (JiZhiMCP console) and register/login.
-2. Create a personal access token in the **API-Key** page (starts with `jzk_`).
+2. Create a personal access token in the **API-Key** page (starts with `sk-`).
 
 ### 2. Add the MCP Server
 
