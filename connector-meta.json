@@ -1,0 +1,23 @@
+{
+  "name": "极智MCP",
+  "name_zh": "极智MCP",
+  "name_en": "JiZhiMCP",
+  "description": "跨平台 MCP 适配网关：一次接入，自动适配分发到豆包、通义、文心、Claude 等主流 Agent 平台，统一鉴权与用量看板。",
+  "description_zh": "把普通 HTTP API 一键托管为标准 MCP 服务，自动适配分发到豆包、通义、文心、Claude 等主流 Agent 平台，统一鉴权、统一用量看板。",
+  "description_en": "Host any HTTP API as a standard MCP server and auto-distribute it to mainstream Agent platforms (Doubao, Tongyi, Wenxin, Claude). Unified auth and usage dashboard.",
+  "source": "jizhineng-mcp",
+  "type": "mcp",
+  "version": "1.0.0",
+  "examples_zh": [
+    "能把我们的天气查询接口做成 MCP 工具吗？让豆包、通义都能直接调用",
+    "我们有个自建的 HTTP 接口，想托管成 MCP 服务，API-Key 和调用次数统一管起来",
+    "今天这个 MCP 服务调了多少次、成功率多少？帮我看看"
+  ],
+  "examples_en": [
+    "Can we turn our weather query API into an MCP tool so Doubao and Tongyi can call it directly?",
+    "We have a custom HTTP API and want to host it as an MCP service with centralized API keys and usage tracking.",
+    "How many calls did this MCP service handle today, and what was the success rate?"
+  ],
+  "auth_mode": "token",
+  "minWorkbuddyVersion": "4.23.0"
+}
