@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "jizhineng-mcp": {
+      "type": "streamableHttp",
+      "url": "https://mcp.xn--5kvtwv52d.com/mcp/gateway",
+      "headers": {
+        "Authorization": "Bearer ${JIZHINENG_API_KEY}"
+      },
+      "timeout": 30000
+    }
+  }
+}
