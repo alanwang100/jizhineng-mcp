@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.alanwang100/jizhineng-mcp",
+  "title": "JiZhiMCP",
+  "description": "Host any HTTP API as MCP tools with a tamper-evident cross-agent settlement ledger.",
+  "repository": {
+    "url": "https://github.com/alanwang100/jizhineng-mcp",
+    "source": "github"
+  },
+  "version": "1.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.xn--5kvtwv52d.com/mcp/gateway"
+    }
+  ]
+}
