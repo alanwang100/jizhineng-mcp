@@ -57,18 +57,23 @@ Ask your agent:
 
 | Tool | Purpose | Main params |
 |---|---|---|
-| `weather_query` | Real-time weather & forecast by city / lat-lng | city / latitude / longitude / days |
+| `weather_query` | Real-time weather & forecast | city / latitude / longitude |
 | `currency_convert` | Currency exchange conversion | amount / from / to |
-| `unit_convert` | Unit conversion (length/weight/temp/area...) | value / from_unit / to_unit |
-| `ip_locate` | IP geolocation & network info | ip |
-| `time_now` | Current time in a timezone | timezone / city |
+| `unit_convert` | Unit conversion (length/weight/temp...) | value / from / to |
 | `holiday_cn` | Chinese public holidays | year / month |
-| `todo_manage` | Todo management | action / item / ... |
+| `time_now` | Current time in a timezone | timezone / city |
+| `ip_locate` | IP geolocation & network info | ip |
+| `dns_lookup` | DNS records (A/AAAA/CNAME/MX/TXT/NS) | domain / type |
+| `github_search` | Search GitHub repos & code | query |
+| `stackoverflow_search` | Search Stack Overflow Q&A | query |
+| `timestamp_convert` | Timestamp ↔ date conversion | value / mode |
 | `web_fetch` | Fetch web page content | url |
+| `exchange_rate` | Real-time exchange rates | base |
+| `hacker_news_search` | Search Hacker News | query |
+| `ip_info` | IP info | ip |
+| `world_time` | World clock / timezone | timezone |
 
-Plus marketplace templates: `world_time`, `ip_info`, `hacker_news_search`, `exchange_rate`.
-
-> The gateway also exposes your custom hosted services; call `tools/list` after connecting to get the full, live tool list and schemas.
+> 16 built-in tools (the full live list is returned by `tools/list`). The gateway also exposes your custom hosted services.
 
 ## Repository Layout
 
@@ -91,3 +96,5 @@ jizhineng-mcp/
 
 - Console: <https://xn--5kvtwv52d.com/console>
 - Gateway: <https://mcp.xn--5kvtwv52d.com/mcp/gateway>
+- Docs: <https://xn--5kvtwv52d.com/docs>
+- 中文教程 (Chinese tutorials): <https://xn--5kvtwv52d.com/tutorial.html> · <https://xn--5kvtwv52d.com/api-to-mcp.html> · <https://xn--5kvtwv52d.com/what-is-mcp.html>
