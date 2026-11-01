@@ -3,7 +3,7 @@
   <a href="https://github.com/alanwang100/jizhineng-mcp/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/alanwang100/jizhineng-mcp?style=social" /></a>
   <a href="https://github.com/alanwang100/jizhineng-mcp/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <img alt="MCP" src="https://img.shields.io/badge/MCP-gateway-7b5cff" />
-  <a href="https://m8ven.ai/mcp/alanwang100/jizhineng-mcp"><img alt="M8ven Score" src="https://m8ven.ai/badge/mcp/alanwang100/jizhineng-mcp" /></a>
+  <a href="https://m8ven.ai/mcp/alanwang100/jizhineng-mcp-20tx7w?s=readme"><img alt="M8ven Score" src="https://m8ven.ai/badge/mcp/alanwang100/jizhineng-mcp-20tx7w?v=aa7368407346799af1a63da0ee1d12e0" /></a>
 </p>
 
 
