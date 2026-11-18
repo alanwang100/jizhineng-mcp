@@ -4,6 +4,7 @@
   <a href="https://github.com/alanwang100/jizhineng-mcp/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <img alt="MCP" src="https://img.shields.io/badge/MCP-gateway-7b5cff" />
   <a href="https://m8ven.ai/mcp/alanwang100/jizhineng-mcp"><img alt="M8ven Score" src="https://m8ven.ai/badge/mcp/alanwang100/jizhineng-mcp" /></a>
+  <a href="https://mcpservers.org/server/jizhineng-mcp"><img alt="mcpservers.org" src="https://img.shields.io/badge/mcpservers.org-listed-0ea5e9" /></a>
 </p>
 
 
