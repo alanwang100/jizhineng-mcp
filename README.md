@@ -7,6 +7,10 @@
   <a href="https://mcpservers.org/server/jizhineng-mcp"><img alt="mcpservers.org" src="https://img.shields.io/badge/mcpservers.org-listed-0ea5e9" /></a>
 </p>
 
+> 📢 **News (Nov 2026)** — JiZhiMCP hit **1,400+ real tool calls/day** within a week of its WorkBuddy launch: 15× growth across 13+ Chinese cities. Read the story → https://xn--5kvtwv52d.com/jizhineng-workbuddy.html
+
+
+
 
 > Cross-platform MCP adaptation gateway: host any HTTP API as a standard MCP service and auto-distribute it to mainstream Agent platforms (Doubao, Tongyi, Wenxin, Claude, etc.) with unified auth and usage dashboard. Built-in tamper-evident cross-agent settlement ledger for multi-agent task accounting.
 >
