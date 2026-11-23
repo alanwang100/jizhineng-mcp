@@ -7,7 +7,7 @@
   <a href="https://mcpservers.org/server/jizhineng-mcp"><img alt="mcpservers.org" src="https://img.shields.io/badge/mcpservers.org-listed-0ea5e9" /></a>
 </p>
 
-> 📢 **News (Nov 2026)** — JiZhiMCP hit **1,400+ real tool calls/day** within a week of its WorkBuddy launch: 15× growth across 13+ Chinese cities. Read the story → https://xn--5kvtwv52d.com/jizhineng-workbuddy.html
+> 📢 **News (Nov 2026)** — JiZhiMCP hit **100,000+ real tool calls/day** after its WorkBuddy launch — now a top-2 MCP application in China, spanning 13+ cities. Read the story → https://xn--5kvtwv52d.com/jizhineng-workbuddy.html
 
 
 
