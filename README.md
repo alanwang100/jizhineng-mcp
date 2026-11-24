@@ -5,6 +5,7 @@
   <img alt="MCP" src="https://img.shields.io/badge/MCP-gateway-7b5cff" />
   <a href="https://m8ven.ai/mcp/alanwang100/jizhineng-mcp"><img alt="M8ven Score" src="https://m8ven.ai/badge/mcp/alanwang100/jizhineng-mcp" /></a>
   <a href="https://mcpservers.org/server/jizhineng-mcp"><img alt="mcpservers.org" src="https://img.shields.io/badge/mcpservers.org-listed-0ea5e9" /></a>
+  <a href="https://glama.ai/mcp/connectors/com.xn--5kvtwv52d/jizhineng-mcp"><img alt="Glama MCP" src="https://glama.ai/mcp/connectors/com.xn--5kvtwv52d/jizhineng-mcp/badges/score.svg" /></a>
 </p>
 
 > 📢 **News (Nov 2026)** — JiZhiMCP hit **100,000+ real tool calls/day** after its WorkBuddy launch — now a top-2 MCP application in China, spanning 13+ cities. Read the story → https://xn--5kvtwv52d.com/jizhineng-workbuddy.html
